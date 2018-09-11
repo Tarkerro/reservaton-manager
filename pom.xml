@@ -9,6 +9,12 @@
     <version>1.0-SNAPSHOT</version>
 
     <build>
+        <finalName>reservation-manager</finalName>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+            </resource>
+        </resources>
         <plugins>
             <plugin>
                 <artifactId>maven-war-plugin</artifactId>
