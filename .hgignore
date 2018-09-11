@@ -1,0 +1,15 @@
+syntax: glob
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+*.orig
+*.log
+log.txt
+db-api/target
+policy/target
+school-service/target
+
